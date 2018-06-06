@@ -1,0 +1,1 @@
+{"munis": ["Palmetto", "Tyrone"], "file": "Clayette05.pdf", "drawingsplit": {"numsplits": 3, "Palmetto_Muni": {"road": [[25, 30]]}, "Tyrone_Muni": {"street": [[40, 50]]}, "coversheet": [[0, 7], [10, 10]], "Clayton_Count": {"parkway": [[30, 40]]}}, "counts": ["Clayton"], "name": "Clayette_05"}
